@@ -1,0 +1,9 @@
+{
+  "name": "es6-practise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "publishConfig": {
+    "repository": "https://github.com/rishabh-pachori-habilelabs/es6-practise.git"
+  },
+  "license": "MIT"
+}
